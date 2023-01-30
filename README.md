@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annmar87
-- 👀 I’m interested in Front-end, photography, design, travel, remote work, cutlture, sports and food. 
+- 👀 I’m interested in Front-end, photography, design, travel, remote work, culture, sports, skincare and healthy food. 
 - 🌱 I’m currently learning The complete Web Developer 2023
-- 💞️ I’m looking to collaborate on (has not yet been defined.)
+- 💞️ I’m looking to collaborate on Web development projects and photography.
 - 📫 How to reach me by Instagram at Mar208712
 
 <!---
